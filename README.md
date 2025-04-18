@@ -35,3 +35,5 @@ YouTube: [Wiztechth channel - Learn Python with AI](https://youtu.be/58YfRuxor9I
 #### **Chapter 34: Pydantic API**
 #### **Chapter 35: Building Web Application with FastAPI**
 #### **Chapter 36: Project Day**
+
+Please Like, Share and Subscribe to support me. Turn on the notification bell to get notified when I upload a new video. Thank you for your support!
