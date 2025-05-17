@@ -1,0 +1,46 @@
+🎬 SCENE 3: "Into the Wild"
+Setting: A wooded nature trail just beyond the suburban streets. Trees arch overhead, sunlight filters through the leaves, and the dirt path winds into the unknown.
+
+🟨 Shot 1
+💬 Narration:
+"Beyond the sidewalk, a whole new world was waiting."
+
+📝 Shot Description:
+A wide shot of the boy and his dog standing at the entrance of a nature trail. The suburban houses are visible in the distance behind them, but ahead is a canopy of trees and a dirt path disappearing into the woods.
+
+🖼 Text-to-Image Prompt:
+A Pixar-style 3D animated scene of a boy and his Jack Russell Terrier standing at the edge of a nature trail. The boy, wearing a yellow hoodie and a small green backpack, gazes ahead excitedly. His dog, a white-and-brown Jack Russell wearing a blue bandana, stands alert beside him. The trail is a dirt path leading into a forest with tall leafy trees. Sunlight streams through the leaves, creating dappled patches of light on the ground. The background shows suburban houses far behind them.
+
+🎬 image-to-Video Prompt:
+The boy shifts his weight forward slightly, taking a step onto the trail. The dog wags its tail eagerly and bounces ahead, tugging gently at the leash. Leaves sway in the breeze, and a bird flits between the trees overhead as they begin walking into the woods.
+
+🟨 Shot 2
+💬 Dialogue (Boy):
+“Alright, buddy. Let’s find some treasure!”
+
+📝 Shot Description:
+Close-up of the boy looking determined and adventurous, holding the leash a little tighter.
+
+🖼 Text-to-Image Prompt:
+Close-up shot of an 8-year-old boy in a yellow hoodie gripping a dog leash with both hands, wearing an eager and determined expression. His brown eyes are bright and focused, and the background shows blurred green forest foliage.
+
+🎬 image-to-Video Prompt:
+The boy’s fingers tighten slightly around the leash as he lifts his chin with determination. His hair moves slightly with the breeze. His mouth moves as he speaks confidently. Light shifts across his face as the trees sway overhead.
+
+🟨 Shot 3
+💬 Narration:
+"And who knew? Maybe today would be the best adventure yet."
+
+📝 Shot Description:
+Wide shot of the boy and the dog walking deeper into the woods, disappearing slowly into the trees.
+
+🖼 Text-to-Image Prompt:
+A wide Pixar-style 3D shot of a dirt trail winding through a dense, leafy forest. The boy in the yellow hoodie and green backpack walks ahead with the Jack Russell Terrier. Both are framed from behind as they move deeper into the woods, becoming smaller in the distance. Sunlight filters down in warm beams between the trees, and the surrounding forest feels magical and full of possibilities.
+
+🎬 image-to-Video Prompt:
+The boy and the dog walk side-by-side down the winding trail, their figures gradually growing smaller. Trees sway gently overhead, and birds can be seen fluttering across the canopy. Dust motes float in sunbeams, and the distant sound of a running stream becomes audible as they move forward.
+
+Scene 3 complete!
+
+Would you like me to continue and create Scene 4 where they find something exciting — like maybe a hidden glade, a strange old object, or a new animal friend?
+Or do you want to start picking visuals for the scenes we have so far?
