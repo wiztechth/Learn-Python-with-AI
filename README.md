@@ -26,6 +26,7 @@ YouTube: [Wiztechth channel - Learn Python with AI](https://www.youtube.com/watc
 #### **Chapter 23:** [Decorators]()
 #### **Chapter 24:** [Context Managers]()
 #### **Chapter 25:** [Regular Expressions]()
+#### **Chapter 26:** [Unit Testing with pytest]()
 #### **Chapter 27:** [Working with APIs and JSON Handling]()
 #### **Chapter 28:** [Web Scraping]()
 #### **Chapter 29:** [Virtual Environments]()
